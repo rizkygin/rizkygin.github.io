@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/rizkygin.github.io/static/css/main.24b85c77.chunk.css",
-    "main.js": "/rizkygin.github.io/static/js/main.a3ec22c4.chunk.js",
-    "main.js.map": "/rizkygin.github.io/static/js/main.a3ec22c4.chunk.js.map",
+    "main.js": "/rizkygin.github.io/static/js/main.2592006e.chunk.js",
+    "main.js.map": "/rizkygin.github.io/static/js/main.2592006e.chunk.js.map",
     "runtime~main.js": "/rizkygin.github.io/static/js/runtime~main.426740a3.js",
     "runtime~main.js.map": "/rizkygin.github.io/static/js/runtime~main.426740a3.js.map",
     "static/js/2.0ffa4436.chunk.js": "/rizkygin.github.io/static/js/2.0ffa4436.chunk.js",
     "static/js/2.0ffa4436.chunk.js.map": "/rizkygin.github.io/static/js/2.0ffa4436.chunk.js.map",
     "index.html": "/rizkygin.github.io/index.html",
-    "precache-manifest.4111dc0ff401a89fb40691aacc925e15.js": "/rizkygin.github.io/precache-manifest.4111dc0ff401a89fb40691aacc925e15.js",
+    "precache-manifest.75f47d24edc66fd14e64df8c1df7273e.js": "/rizkygin.github.io/precache-manifest.75f47d24edc66fd14e64df8c1df7273e.js",
     "service-worker.js": "/rizkygin.github.io/service-worker.js",
     "static/css/main.24b85c77.chunk.css.map": "/rizkygin.github.io/static/css/main.24b85c77.chunk.css.map",
     "static/media/1.webp": "/rizkygin.github.io/static/media/1.d01ed6d8.webp",
     "static/media/2.webp": "/rizkygin.github.io/static/media/2.a1c6850e.webp",
     "static/media/3.webp": "/rizkygin.github.io/static/media/3.0c2f3ab3.webp",
-    "static/media/Signature.svg": "/rizkygin.github.io/static/media/Signature.fc46499b.svg",
     "static/media/about-img.webp": "/rizkygin.github.io/static/media/about-img.fa99e8ac.webp",
-    "static/media/style.css": "/rizkygin.github.io/static/media/home-bg-2.8fff7936.webp"
+    "static/media/style.css": "/rizkygin.github.io/static/media/home-bg-2.8fff7936.webp",
+    "static/media/signature.svg": "/rizkygin.github.io/static/media/signature.fc46499b.svg"
   }
 }

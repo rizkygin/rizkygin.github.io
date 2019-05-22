@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f431e6c9cc5410ac373d402acc22850f",
+    "revision": "d61466d6a62450c0a38f2d57908f4b95",
     "url": "/rizkygin.github.io/index.html"
   },
   {
-    "revision": "2c562ba966e748e47c33",
+    "revision": "f6b6906c537df2e494b1",
     "url": "/rizkygin.github.io/static/css/main.24b85c77.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rizkygin.github.io/static/js/2.0ffa4436.chunk.js"
   },
   {
-    "revision": "2c562ba966e748e47c33",
-    "url": "/rizkygin.github.io/static/js/main.a3ec22c4.chunk.js"
+    "revision": "f6b6906c537df2e494b1",
+    "url": "/rizkygin.github.io/static/js/main.2592006e.chunk.js"
   },
   {
     "revision": "2c08a0a7f20948e17d13",
@@ -32,15 +32,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/rizkygin.github.io/static/media/3.0c2f3ab3.webp"
   },
   {
-    "revision": "fc46499b4d46aa946182f72790391124",
-    "url": "/rizkygin.github.io/static/media/Signature.fc46499b.svg"
-  },
-  {
     "revision": "fa99e8ace91d232b1d73144dc62fae46",
     "url": "/rizkygin.github.io/static/media/about-img.fa99e8ac.webp"
   },
   {
     "revision": "8fff79367392f8e2b89c1c8ac927db21",
     "url": "/rizkygin.github.io/static/media/home-bg-2.8fff7936.webp"
+  },
+  {
+    "revision": "fc46499b4d46aa946182f72790391124",
+    "url": "/rizkygin.github.io/static/media/signature.fc46499b.svg"
   }
 ]);
