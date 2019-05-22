@@ -1,0 +1,28 @@
+.riz {
+  display: flex;
+  justify-content: center;
+  background-color: #273f66;
+  align-items: center;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+.ky {
+  left: 0px;
+  font-size: 30px;
+  color: #a7bee2;
+}
+ul {
+  list-style: none;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 8px;
+}
+nav ul li a {
+  text-decoration: none;
+  color: #ffff;
+}
+.ttd {
+  height: 100px;
+  width: 100px;
+}
