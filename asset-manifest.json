@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/rizkygin.github.io/static/css/main.342f34ba.chunk.css",
-    "main.js": "/rizkygin.github.io/static/js/main.caf279cf.chunk.js",
-    "main.js.map": "/rizkygin.github.io/static/js/main.caf279cf.chunk.js.map",
+    "main.css": "/rizkygin.github.io/static/css/main.b153e492.chunk.css",
+    "main.js": "/rizkygin.github.io/static/js/main.5c4a75bd.chunk.js",
+    "main.js.map": "/rizkygin.github.io/static/js/main.5c4a75bd.chunk.js.map",
     "runtime~main.js": "/rizkygin.github.io/static/js/runtime~main.426740a3.js",
     "runtime~main.js.map": "/rizkygin.github.io/static/js/runtime~main.426740a3.js.map",
-    "static/js/2.af93b7c8.chunk.js": "/rizkygin.github.io/static/js/2.af93b7c8.chunk.js",
-    "static/js/2.af93b7c8.chunk.js.map": "/rizkygin.github.io/static/js/2.af93b7c8.chunk.js.map",
+    "static/js/2.0ffa4436.chunk.js": "/rizkygin.github.io/static/js/2.0ffa4436.chunk.js",
+    "static/js/2.0ffa4436.chunk.js.map": "/rizkygin.github.io/static/js/2.0ffa4436.chunk.js.map",
     "index.html": "/rizkygin.github.io/index.html",
-    "precache-manifest.55f782979f100a2ffb12e744b8a5414b.js": "/rizkygin.github.io/precache-manifest.55f782979f100a2ffb12e744b8a5414b.js",
+    "precache-manifest.78cfee0573dfbc296ef1eec3f387f15c.js": "/rizkygin.github.io/precache-manifest.78cfee0573dfbc296ef1eec3f387f15c.js",
     "service-worker.js": "/rizkygin.github.io/service-worker.js",
-    "static/css/main.342f34ba.chunk.css.map": "/rizkygin.github.io/static/css/main.342f34ba.chunk.css.map",
-    "static/media/2.jpg": "/rizkygin.github.io/static/media/2.14b7627b.jpg",
+    "static/css/main.b153e492.chunk.css.map": "/rizkygin.github.io/static/css/main.b153e492.chunk.css.map",
+    "static/media/1.jpg": "/rizkygin.github.io/static/media/1.14b7627b.jpg",
+    "static/media/2.jpg": "/rizkygin.github.io/static/media/2.9f62c0ae.jpg",
+    "static/media/Signature.svg": "/rizkygin.github.io/static/media/Signature.fc46499b.svg",
     "static/media/about-img.jpg": "/rizkygin.github.io/static/media/about-img.b341b572.jpg",
-    "static/media/style.css": "/rizkygin.github.io/static/media/home-bg-2.08f968ef.jpg"
+    "static/media/style.css": "/rizkygin.github.io/static/media/home-bg-2.292a7309.jpg"
   }
 }
