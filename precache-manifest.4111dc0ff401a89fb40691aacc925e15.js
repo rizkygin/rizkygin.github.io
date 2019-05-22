@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0f6f061576edf87b89f8be574fd4e58",
+    "revision": "f431e6c9cc5410ac373d402acc22850f",
     "url": "/rizkygin.github.io/index.html"
   },
   {
-    "revision": "a4a053d728d070d38df0",
-    "url": "/rizkygin.github.io/static/css/main.c922ecb6.chunk.css"
+    "revision": "2c562ba966e748e47c33",
+    "url": "/rizkygin.github.io/static/css/main.24b85c77.chunk.css"
   },
   {
     "revision": "f995e192507b17fcc51b",
     "url": "/rizkygin.github.io/static/js/2.0ffa4436.chunk.js"
   },
   {
-    "revision": "a4a053d728d070d38df0",
-    "url": "/rizkygin.github.io/static/js/main.62467e50.chunk.js"
+    "revision": "2c562ba966e748e47c33",
+    "url": "/rizkygin.github.io/static/js/main.a3ec22c4.chunk.js"
   },
   {
     "revision": "2c08a0a7f20948e17d13",
